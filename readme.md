@@ -78,7 +78,7 @@ __shorcuts.html__
 <br>
 <img src=".\webshortcut\files\command.png" alt="image" width="auto" height="auto">
 <br>
-For more info, and more customization options on how your songs are displayed, visit the [Navidrome Documentation](https://www.navidrome.org/docs/usage/)
+For more info, and more customization options on how your songs are displayed, visit the [NavidromeDocumentation](https://www.navidrome.org/docs/usage/) .
 
 ---
 ### Installation and Usage Without Server
@@ -100,9 +100,8 @@ Fully customizable Web UI for direct links to all music resources. Use HTML to a
 
 
 
-1. Choose how you want to host your server (locally, virtual machine, or cloud)
-2. Select and install OS / distro that you would like to use to host your server (personally used Ubunutu Server)
-3. Be sure to make a sudo user for yourself as well as update and upgrade your freshly installed server: (_commands may vary depending on your distro due to having different package managers_)
+1. Select and install OS / distro that you would like to use to host your server (personally used Ubunutu Server)
+2. Be sure to make a sudo user for yourself as well as update and upgrade your freshly installed server: (_commands may vary depending on your distro due to having different package managers_)
 ```
 apt update && apt upgrade -y
 ```
