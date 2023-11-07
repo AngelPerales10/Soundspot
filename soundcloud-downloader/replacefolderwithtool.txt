@@ -1,0 +1,3 @@
+Run this command in main folder to replace this one (./soundspot)
+
+git clone https://github.com/flyingrub/scdl
