@@ -31,7 +31,7 @@ Remember, Python uses double backslashes to locate a file directory.
 <br><br>
 Before anything, __clone the tools by Flying Grub and SpotDL__ in the main SoundSpot folder. Have them replace the currently empty placeholder folders for these tools. I do not own these tools, so they must be cloned from their rightful creators: <br>
 [Soundcloud-downloader](https://github.com/flyingrub/scdl) tool.
-[Spotfify-downloader](https://github.com/spotDL/spotify-downloader) tool. <br><br>
+[Spotify-downloader](https://github.com/spotDL/spotify-downloader) tool. <br><br>
 __Make sure you follow the author's documentation to make sure you have the proper requirements to run these tools.__<br><br>
 __archieve.py__
 - source_folder (full directory location of ./upload. For example: "D:\\\visualstudio\\\vscodeprojects\\\soundspot\\\upload")
