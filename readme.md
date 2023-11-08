@@ -5,7 +5,7 @@
 
 # SoundSpot:
 
-Music server and toolkit to automate downloading and locally hosting your Spotify and Soundcloud songs using scripting, VirtualBox, and Navidrome. <br>
+Music server toolkit to automate downloading and locally hosting your Spotify and Soundcloud songs using scripting, VirtualBox, and Navidrome. <br>
 </div>
 
 ## Table of Contents
