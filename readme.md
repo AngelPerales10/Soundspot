@@ -92,7 +92,7 @@ Just want to download songs?
 
 ### Web UI Feature:
 <img src=".\webshortcut\files\soundspotss.png" alt="image" width="auto" height="auto">
-Code provided as a base to customizae a Web UI for direct links to all music resources. Add features you wish you had better access to.
+Code provided as a base to customize a Web UI for direct links to all music resources. Add features you wish you had better access to.
 
 ---
 
